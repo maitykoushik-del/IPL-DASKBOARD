@@ -149,8 +149,7 @@ SUM(Batting[Runs])
 
  📷 Dashboard Preview
 
-![IPL Analysis Dashboard]([Dashboard.png](https://github.com/maitykoushik-del/IPL-DASKBOARD/blob/main/IPL%20ANALYSIS%20DASKBOARD.png))
-
+![IPL Analysis Dashboard](https://github.com/maitykoushik-del/IPL-DASKBOARD/blob/main/IPL%20ANALYSIS%20DASKBOARD.png)
 💡 Key Insights
 
 This dashboard makes it easier to understand:
